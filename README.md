@@ -13,4 +13,15 @@ With growing concern over racially driven police shootings, I wanted to dig into
 
 - Is the data scewed more towards African Americas?
 - Are there any other correllations in the data that could suggest other trends?
-- 
+- Can we cluster the data in order to get additinoal insights?
+
+### Files
+This repository contains the following files:
+
+- Police_Shooting
+- Police Shootings.csv
+
+### Summary
+
+### Acknowledgements
+
