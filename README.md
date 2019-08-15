@@ -18,10 +18,13 @@ With growing concern over racially driven police shootings, I wanted to dig into
 ### Files
 This repository contains the following files:
 
-- Police_Shooting
+- Police_Shooting.ipynb
 - Police Shootings.csv
 
 ### Summary
+There are some interesting findings in this dataset however I believe that more data is needing in order to come to any conclusions. We found that African Americans are over represented in the fatal shootings of police offices, however they are also over represented in total arrests. More data and analysis needs to be done on arrest information. We also found that African Americans are on average shot at a younger age then other races, and the data would suggest more likely to flee the scene. However, they are also less likely to have a weapon or attack.
 
 ### Acknowledgements
-
+Washington Post for providing the data https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/
+The Sentncing Project https://www.sentencingproject.org/publications/un-report-on-racial-disparities/
+Kaiser Family Foundation https://www.kff.org/other/state-indicator/distribution-by-raceethnicity/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
