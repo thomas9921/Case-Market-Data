@@ -1,6 +1,9 @@
 # Udacity Project - Write a Data Science Blog Post
 Police Shootings in the United States
 
+### Blog
+Medium - https://medium.com/@sthomas9921/are-police-targeting-african-americas-we-must-go-to-the-data-e1de0d61380b
+
 ### Installations
 This project was written in the Anaconda environment and Python 3.7
 
